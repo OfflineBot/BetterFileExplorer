@@ -1,0 +1,1 @@
+# This is a faster File Explorer for Windows
